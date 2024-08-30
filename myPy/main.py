@@ -17,8 +17,8 @@ import discordu
 import bufer
 
 if __name__ == "__main__":
-    Chat_id = '1251098499'
-    Token = '6625920492:AAFh5rHf89JGv7sgLr7JjGORixiLqBPbij0'
+    Chat_id = 'Your chat_id from -> @getmyid_bot'
+    Token = 'your bot token from -> @BotFather'
     
     createfolders.create_all()
 
