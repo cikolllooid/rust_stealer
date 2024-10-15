@@ -1,6 +1,6 @@
 /target
-Cargo.toml
-pyproject.toml
+.Cargo.lock
+.pyproject.toml
 
 # Byte-compiled / optimized / DLL files
 myPy/__pycache__/
