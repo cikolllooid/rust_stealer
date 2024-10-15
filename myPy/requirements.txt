@@ -5,5 +5,5 @@ py-cpuinfo
 GPUtil
 requests
 opencv-python
-pypiwin32
+pywin32
 pycryptodome
